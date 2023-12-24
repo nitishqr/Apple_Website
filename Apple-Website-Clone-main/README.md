@@ -35,7 +35,7 @@ index.html: Contains the main website content and structure.
 
 style.css: Contains the website's styling.
 
-Browser compatibility: Tested in modern web browsers (Chrome)
+Browser compatibility: Tested in modern web browser (Chrome)
 
 
 > Home Page

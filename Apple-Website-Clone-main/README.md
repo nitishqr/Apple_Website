@@ -28,10 +28,15 @@ That's it! You should now see the Apple website running in your browser.
 ## Additional Information
 
 Technologies used: HTML, CSS
+
 File structure:
+
 index.html: Contains the main website content and structure.
+
 style.css: Contains the website's styling.
+
 Browser compatibility: Tested in modern web browsers (Chrome)
+
 
 > Home Page
 <img src="./assets/readme/first_page.png" width="auto" height="auto">

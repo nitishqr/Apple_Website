@@ -3,6 +3,7 @@
 <br>
 
 Welcome to the Apple website repository! This project showcases a simple Apple website built using HTML and CSS.
+
 My Name is Nitish kumar.
 
 

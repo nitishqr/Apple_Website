@@ -1,5 +1,5 @@
 # Preview
-> Link - https://adiyadav123.github.io/Apple-Website-Clone/
+> Link - https://bit.ly/Nitish_Apple_website_Git_Hub
 <br> 
 
 > Home Page

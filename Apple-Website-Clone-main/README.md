@@ -17,7 +17,7 @@ git clone https://github.com/nitishqr/Apple_Website/tree/main/Apple-Website-Clon
 Navigate to the project directory:
 
 Bash
-cd Apple_Website/Apple-Website-Clone-main
+cd Apple-Website-Clone-main
  
 Open the index.html file:
 
